@@ -1,6 +1,6 @@
 body {
   font-family: "helvetica" sans-serif;
-  text-align: center;
+
 }
 h1 {
   font-weight: bold;
@@ -9,25 +9,32 @@ h1 {
 .top {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
   color: White;
+  text-align: center;
 }
 .select {
   font-size: 18px;
   color: white;
+  text-align: center;
 }
 .middle {
-
+  text-align: center;
+}
+.points {
+    text-align: center;
+    font-size: 14px;
 }
 h2 {
   font-size: 32px;
+}
 h3 {
   font-size: 23px;
-}
- p {
-  font-size: 14px;
 }
 .copyright {
   font-size: 11px;
 }
+.select2 {
+  font-size: 14px;
+}
 .footer {
-  background-color: gray;
+  background-color: lightgray;
 }
